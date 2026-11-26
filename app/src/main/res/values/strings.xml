@@ -1,0 +1,30 @@
+
+<resources>
+    <string name="app_name">Lista de Tareas</string>
+
+    <string name="titulo_principal">Mis tareas</string>
+    <string name="saludo">¡Organiza tu día!</string>
+    <string name="subtitulo">Cada tarea cuenta</string>
+    <string name="pendientes">Pendientes</string>
+    <string name="completadas">Completadas</string>
+    <string name="titulo_tareas_pendientes">Tareas pendientes</string>
+    <string name="titulo_tareas_completadas">Tareas completadas</string>
+    <string name="sin_tareas">No hay tareas para mostrar.</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="logo_tareas">Logo de tareas</string>
+
+    <string name="nueva_tarea">Nueva tarea</string>
+    <string name="agregar_actividad">Agrega una nueva actividad.</string>
+    <string name="titulo_nueva_actividad">¡Nueva actividad!</string>
+    <string name="nombre_tarea">Nombre de la tarea</string>
+    <string name="descripcion_tarea">Descripción (opcional)</string>
+    <string name="guardar_tarea">Guardar tarea</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="volver">Volver</string>
+    <string name="error_nombre">Escribe el nombre de la tarea para poder guardarla.</string>
+
+    <string name="tarea_ejemplo_1">Estudiar para el examen</string>
+    <string name="descripcion_ejemplo_1">Repasar apuntes</string>
+    <string name="tarea_ejemplo_2">Hacer tarea</string>
+    <string name="descripcion_ejemplo_2">Terminar actividad</string>
+</resources>
